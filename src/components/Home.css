@@ -1,0 +1,31 @@
+
+.bgs {
+    width: 100vw;
+    height: 92vh;
+}
+
+.over {
+    position: relative;
+    color:rgb(93, 189, 249);
+    bottom: 500px;
+    }
+
+.search {
+    color:aliceblue;
+    font-size: 45px;
+}
+
+.navbar .dropdown-menu {
+    background-color: rgb(33,37,41);
+    border-top: none;
+}
+
+.dropdown-menu .dropdown-item {
+    color: aliceblue;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: rgb(151, 72, 226);
+    border: 1px solid white;
+    box-sizing: border-box;
+}
